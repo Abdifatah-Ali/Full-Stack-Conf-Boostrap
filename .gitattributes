@@ -1,5 +1,3 @@
-# Vendored dependencies
-- third[-_]?party/
-- 3rd[-_]?party/
-- vendors?/
-- extern(al)?/
+$ cat .gitattributes
+special-vendored-path/* linguist-vendored
+bootstrap linguist-vendored=true
