@@ -1,5 +1,5 @@
-*.css linguist-detectable=false  
+*.bootstrap linguist-detectable=true 
 *.java linguist-detectable=false  
 *.js linguist-detectable=false 
 *.html linguist-detectable=false  
-*.bootstrap linguist-detectable=true
+*.xml linguist-detectable=false
